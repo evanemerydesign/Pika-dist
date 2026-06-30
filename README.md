@@ -29,3 +29,18 @@ src/Pika.UI/            ← All Eto.Forms screens and dialogs
 tools/Pika.Preview/     ← WPF preview harness (drive Eto UI outside Rhino)
 data/aisc-catalog.db    ← Read-only AISC shape catalog
 ```
+
+## On the roadmap
+
+<img src="docs/github-graphics/roadmap.jpg" width="100%" alt="Pika roadmap — features under development" />
+
+Pika ships new tools steadily. These are **under development** — designed and partly built, but not yet in the shipping `.yak`:
+
+- **1D Nesting** — *in progress* · pack parts onto stock lengths, results straight into the model
+- **Hardware** — *planned* · bolts, anchors & base-plate assemblies with auto holes + CL marks
+- **Drawings & Output** — *planned* · cut list, flat-part shop drawings & a unified BOM
+- **Project Info** — *planned* · project & scope fields saved into the `.3dm`
+- **Box Generator** — *planned* · draw a box, get a mitered member frame
+- **Perforated Steel** · **Pikafy** · **Custom Shapes** — *exploring*
+
+[See the full roadmap →](https://evanemerydesign.github.io/Pika#features)
