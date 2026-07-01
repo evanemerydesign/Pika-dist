@@ -4,12 +4,12 @@
 
 ## Install
 
-1. Go to **[Pika-dist releases](https://github.com/evanemerydesign/Pika-dist/releases)**
-2. Download the latest `.yak` file
-3. Open Rhino 8 — drag the `.yak` onto the viewport to install
-4. Restart Rhino, then type `Pika` to open the panel
+1. Download **[install-update-pika.bat](https://raw.githubusercontent.com/evanemerydesign/Pika-dist/main/install-update-pika.bat)** (right-click → *Save link as…*)
+2. Close Rhino if it's open, then double-click `install-update-pika.bat`
+   - If Windows shows *"Windows protected your PC,"* click **More info → Run anyway**
+3. Open Rhino 8, then type `Pika` (or *Panels* menu → *Pika*) to open the panel
 
-> Requires Rhino 8 or later.
+> Requires Rhino 8 (8.31+). Run the same file again anytime to update to the newest build.
 
 ## Documentation
 
