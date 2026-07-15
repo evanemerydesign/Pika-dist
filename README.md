@@ -36,11 +36,14 @@ data/aisc-catalog.db    ← Read-only AISC shape catalog
 
 Pika ships new tools steadily. These are **under development** — designed and partly built, but not yet in the shipping `.yak`:
 
+- **Cut sheets** — *next up* · auto layouts that nest the flat parts onto printable 11×17 sheets as
+  real Rhino layout pages, with a cover sheet
 - **1D Nesting** — *in progress* · pack parts onto stock lengths, results straight into the model
 - **Hardware** — *planned* · bolts, anchors & base-plate assemblies with auto holes + CL marks
-- **Drawings & Output** — *planned* · cut list, flat-part shop drawings & a unified BOM
+- **Drawings & Output** — *planned* · flat-part shop drawings & a unified BOM (the **cut list**
+  itself ships as of 0.3.0)
 - **Project Info** — *planned* · project & scope fields saved into the `.3dm`
 - **Box Generator** — *planned* · draw a box, get a mitered member frame
-- **Perforated Steel** · **Pikafy** · **Custom Shapes** — *exploring*
+- **Perforated Steel** · **Custom Shapes** — *exploring*
 
 [See the full roadmap →](https://evanemerydesign.github.io/Pika#features)
