@@ -1,6 +1,10 @@
 <img src="docs/github-graphics/hero-a.jpg" width="100%" alt="Pika — Steel fabrication, native to Rhino 8" />
-<img src="docs/github-graphics/workflow-2.jpg" width="100%" alt="Import · Model · Number · Nest · Output" />
-<img src="docs/github-graphics/capabilities-2.jpg" width="100%" alt="Everything in one panel" />
+
+<p align="center">
+  <a href="#install"><img src="https://img.shields.io/badge/⬇_Install-2563EB?style=for-the-badge" alt="Install" height="44"></a>
+  &nbsp;&nbsp;
+  <a href="https://evanemerydesign.github.io/Pika"><img src="https://img.shields.io/badge/📖_Full_Documentation-16A34A?style=for-the-badge" alt="Full Documentation" height="44"></a>
+</p>
 
 ## Install
 
@@ -14,6 +18,11 @@
 ## Documentation
 
 [Full feature documentation →](https://evanemerydesign.github.io/Pika)
+
+## Features
+
+<img src="docs/github-graphics/workflow-2.jpg" width="100%" alt="Import · Model · Number · Nest · Output" />
+<img src="docs/github-graphics/capabilities-2.jpg" width="100%" alt="Everything in one panel" />
 
 ## Development
 
