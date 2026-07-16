@@ -1,6 +1,6 @@
-<img src="docs/github-graphics/hero.jpg" width="100%" alt="Pika — Steel fabrication, native to Rhino 8" />
-<img src="docs/github-graphics/workflow.jpg" width="100%" alt="Import · Model · Number · Nest · Output" />
-<img src="docs/github-graphics/capabilities.jpg" width="100%" alt="Everything in one panel" />
+<img src="docs/github-graphics/hero-a.jpg" width="100%" alt="Pika — Steel fabrication, native to Rhino 8" />
+<img src="docs/github-graphics/workflow-2.jpg" width="100%" alt="Import · Model · Number · Nest · Output" />
+<img src="docs/github-graphics/capabilities-2.jpg" width="100%" alt="Everything in one panel" />
 
 ## Install
 
@@ -32,16 +32,18 @@ data/aisc-catalog.db    ← Read-only AISC shape catalog
 
 ## On the roadmap
 
-<img src="docs/github-graphics/roadmap.jpg" width="100%" alt="Pika roadmap — features under development" />
+<img src="docs/github-graphics/roadmap-2.jpg" width="100%" alt="Pika roadmap — shipped, in progress, planned & exploring" />
+
+> **New in 0.4.0 (beta): Cut sheets.** Auto layouts that nest the flat cut-list cells — real
+> station/gauge dims, hole crosses and Ø leaders and all — onto printable 11×17 Rhino layout
+> pages, with a cover sheet + per-sheet snapshot map and a separate vendor/laser package.
 
 Pika ships new tools steadily. These are **under development** — designed and partly built, but not yet in the shipping `.yak`:
 
-- **Cut sheets** — *next up* · auto layouts that nest the flat parts onto printable 11×17 sheets as
-  real Rhino layout pages, with a cover sheet
 - **1D Nesting** — *in progress* · pack parts onto stock lengths, results straight into the model
 - **Hardware** — *planned* · bolts, anchors & base-plate assemblies with auto holes + CL marks
 - **Drawings & Output** — *planned* · flat-part shop drawings & a unified BOM (the **cut list**
-  itself ships as of 0.3.0)
+  ships as of 0.3.0, **cut sheets** as of 0.4.0)
 - **Project Info** — *planned* · project & scope fields saved into the `.3dm`
 - **Box Generator** — *planned* · draw a box, get a mitered member frame
 - **Perforated Steel** · **Custom Shapes** — *exploring*
